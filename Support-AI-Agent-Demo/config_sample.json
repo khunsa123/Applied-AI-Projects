@@ -1,0 +1,10 @@
+{
+  "llm": {
+    "model": "your-llm-model",
+    "api_key": "your-api-key",
+    "base_url": "https://your-llm-endpoint"
+  },
+  "data_paths": {
+    "tickets": "data/sample_tickets.json"
+  }
+}
