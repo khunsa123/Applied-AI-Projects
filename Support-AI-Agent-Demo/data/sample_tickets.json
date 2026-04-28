@@ -1,0 +1,24 @@
+[
+  {
+    "id": "TICKET001",
+    "title": "Cannot access account",
+    "description": "User reports being unable to log in.",
+    "category": "Account Issues",
+    "conversation": [
+      {"sender": "user", "message": "I can't log in to my account."},
+      {"sender": "support", "message": "Have you tried resetting your password?"}
+    ],
+    "status": "solved"
+  },
+  {
+    "id": "TICKET002",
+    "title": "Error 500 on dashboard",
+    "description": "Dashboard throws a server error.",
+    "category": "Technical",
+    "conversation": [
+      {"sender": "user", "message": "I get a 500 error on the dashboard."},
+      {"sender": "support", "message": "We're looking into it."}
+    ],
+    "status": "processing"
+  }
+]
